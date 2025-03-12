@@ -24,8 +24,5 @@ A fun and interactive **Stone Paper Scissors** game built using HTML, CSS, and J
 - The game keeps track of scores.
 
 
-## 🌐 Live Demo
-[Click here to play]()
-
 
 
