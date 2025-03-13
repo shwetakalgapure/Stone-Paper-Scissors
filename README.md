@@ -23,6 +23,7 @@ A fun and interactive **Stone Paper Scissors** game built using HTML, CSS, and J
   - **Paper beats Stone** (📄 > ✊)
 - The game keeps track of scores.
 
-
+## 🌐Live Demo
+[Click here to play this game](https://shwetakalgapure.github.io/Stone-Paper-Scissors/)
 
 
